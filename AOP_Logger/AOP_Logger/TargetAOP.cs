@@ -7,16 +7,14 @@ using System.Reflection;
 
 namespace AOP_Logger
 {
-    [LoggerAttribute("FileLog.txt")]
+    [LoggerAttribute("AOP_LoggerFile.txt")]
     public class TargetAOP
     {
-        public TargetAOP(int parameter)
-        {
-        }
+        public TargetAOP(int parameter) { }
 
         public void First()
         {
-            //
+            //code
         }
 
         public int Second(int parameter1, object parameter2)
