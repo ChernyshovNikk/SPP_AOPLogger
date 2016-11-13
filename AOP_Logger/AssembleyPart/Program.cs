@@ -11,14 +11,16 @@ namespace AssemblyPart
     {
         static void Main(string[] args)
         {
-            if (args.Length > 0)
-                if (File.Exists(args[0]))
-                {
-                    Modifications assemblyModifier = new Modifications(args[0]);
-                    Console.WriteLine("Выполнение изменений", args[0]);
-                }
-                else
-                    Console.WriteLine("Файл не найден", args[0]);
+            if (args.Length == 0)
+                return;
+
+            if (File.Exists(args[0]))
+            {
+                Modifications assemblyModifier = new Modifications(args[0]);
+                Console.WriteLine("Выполнение изменений", args[0]);
+            }
+            else
+                Console.WriteLine("Файл не найден", args[0]);
         }
     }
 }
