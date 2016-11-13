@@ -40,10 +40,13 @@ namespace AOP_Logger
             return stringOfParameters;
         }
 
-        public virtual void GetLoggerInformation(MethodBase method, Dictionary<string, object> parametersValue, object returnValue)
+        public virtual void GetEnterParameters(MethodBase method, Dictionary<string, object> parametersValue)
         {
             WriteInfoToFile(String.Format("CLASS: {{{0}}}. METHOD: {{{1}}}. PARAMETERS: {{{2}}}", method.DeclaringType.Name, method.Name, GetParameters(parametersValue)));
+        }
 
+        public virtual void GetReturnValue(object returnValue)
+        {
             if (returnValue != null)
                 WriteInfoToFile(String.Format(" and RETURNS {{{0}}}{1}", returnValue.ToString(), "\r\n"));
             else

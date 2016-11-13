@@ -7,7 +7,7 @@ using System.Reflection;
 
 namespace AOP_Logger
 {
-    [LoggerAttribute("AOP_LoggerFile.txt")]
+    [LoggerAttribute("E:\\AOP_LoggerFile.txt")]
     public class TargetAOP
     {
         public TargetAOP(int parameter) { }
