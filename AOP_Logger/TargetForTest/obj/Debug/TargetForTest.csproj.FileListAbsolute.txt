@@ -1,0 +1,6 @@
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\bin\Debug\TargetForTest.exe.config
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\bin\Debug\TargetForTest.exe
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\bin\Debug\TargetForTest.pdb
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\obj\Debug\TargetForTest.csprojResolveAssemblyReference.cache
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\obj\Debug\TargetForTest.exe
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\TargetForTest\obj\Debug\TargetForTest.pdb

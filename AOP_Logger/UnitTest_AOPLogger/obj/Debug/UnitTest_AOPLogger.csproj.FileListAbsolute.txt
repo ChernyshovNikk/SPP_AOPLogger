@@ -1,0 +1,10 @@
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.dll
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.pdb
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\AOP_Logger.exe
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\AssembleyPart.exe
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\Mono.Cecil.dll
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\AOP_Logger.pdb
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\bin\Debug\AssembleyPart.pdb
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.csprojResolveAssemblyReference.cache
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.dll
+E:\СПП. Лабораторные\FourthLab\AOP_Logger\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.pdb

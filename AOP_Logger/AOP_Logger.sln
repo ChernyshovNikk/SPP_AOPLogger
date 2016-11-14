@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_AOPLogger", "UnitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyPart", "AssembleyPart\AssemblyPart.csproj", "{9B874503-671F-4022-A59C-4D3D9BE38699}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetForTest", "TargetForTest\TargetForTest.csproj", "{7C34E453-6674-4081-9B8E-8E9D943F5067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B874503-671F-4022-A59C-4D3D9BE38699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B874503-671F-4022-A59C-4D3D9BE38699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B874503-671F-4022-A59C-4D3D9BE38699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C34E453-6674-4081-9B8E-8E9D943F5067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C34E453-6674-4081-9B8E-8E9D943F5067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C34E453-6674-4081-9B8E-8E9D943F5067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C34E453-6674-4081-9B8E-8E9D943F5067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

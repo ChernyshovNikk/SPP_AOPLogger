@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using AOP_Logger;
 
 namespace AssemblyPart
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
