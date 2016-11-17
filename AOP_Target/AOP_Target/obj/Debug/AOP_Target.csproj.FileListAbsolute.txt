@@ -1,0 +1,14 @@
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\obj\Debug\AOP_Target.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\bin\Debug\AOP_Target.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\bin\Debug\AOP_Target.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\bin\Debug\AOP_Target.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\obj\Debug\AOP_Target.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_Target\AOP_Target\obj\Debug\AOP_Target.pdb
+D:\FourthLab\AOP_Target\AOP_Target\bin\Debug\AOP_Target.exe.config
+D:\FourthLab\AOP_Target\AOP_Target\bin\Debug\AOP_Target.exe
+D:\FourthLab\AOP_Target\AOP_Target\bin\Debug\AOP_Target.pdb
+D:\FourthLab\AOP_Target\AOP_Target\obj\Debug\AOP_Target.exe
+D:\FourthLab\AOP_Target\AOP_Target\obj\Debug\AOP_Target.pdb
+D:\FourthLab\AOP_Target\AOP_Target\bin\Debug\AOP_LoggerAttribute.pdb
+D:\FourthLab\AOP_Target\AOP_Target\obj\Debug\AOP_Target.csprojResolveAssemblyReference.cache

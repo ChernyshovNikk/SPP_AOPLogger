@@ -1,0 +1,9 @@
+E:\lAB\5 семестр\СПП\MPP_LAB4\Logger\Logger\bin\Debug\Logger.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\Logger\Logger\bin\Debug\Logger.pdb
+E:\lAB\5 семестр\СПП\MPP_LAB4\Logger\Logger\obj\Debug\Logger.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\Logger\Logger\obj\Debug\Logger.pdb
+E:\!!Очень важно!!\MPP_LAB4\Logger\Logger\bin\Debug\Logger.dll
+E:\!!Очень важно!!\MPP_LAB4\Logger\Logger\bin\Debug\Logger.pdb
+E:\!!Очень важно!!\MPP_LAB4\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\Logger\Logger\obj\Debug\Logger.dll
+E:\!!Очень важно!!\MPP_LAB4\Logger\Logger\obj\Debug\Logger.pdb

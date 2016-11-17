@@ -1,0 +1,40 @@
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AOP_LoggerAttribute.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTest_AOPLogger.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\UnitTestProject.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\UnitTestProject.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\obj\Debug\UnitTestProject.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\UnitTest_AOPLogger\obj\Debug\UnitTestProject.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AssemblyPart.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AssemblyPart.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.pdb
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.dll
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\UnitTest_AOPLogger.pdb
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AssemblyPart.exe
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\Mono.Cecil.dll
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.dll
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AssemblyPart.pdb
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.csprojResolveAssemblyReference.cache
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.dll
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\obj\Debug\UnitTest_AOPLogger.pdb
+D:\FourthLab\AOP_AssemblyAndTest\UnitTest_AOPLogger\bin\Debug\AOP_LoggerAttribute.pdb

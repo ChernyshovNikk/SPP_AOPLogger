@@ -1,0 +1,10 @@
+E:\!!Очень важно!!\MPP_LAB4\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_LoggerAttribute\AOP_LoggerAttribute\bin\Debug\AOP_LoggerAttribute.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_LoggerAttribute\AOP_LoggerAttribute\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.pdb
+D:\FourthLab\AOP_LoggerAttribute\AOP_LoggerAttribute\bin\Debug\AOP_LoggerAttribute.dll
+D:\FourthLab\AOP_LoggerAttribute\AOP_LoggerAttribute\bin\Debug\AOP_LoggerAttribute.pdb
+D:\FourthLab\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.csprojResolveAssemblyReference.cache
+D:\FourthLab\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.dll
+D:\FourthLab\AOP_LoggerAttribute\AOP_LoggerAttribute\obj\Debug\AOP_LoggerAttribute.pdb

@@ -1,0 +1,20 @@
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.exe
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Mono.Cecil.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Logger.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.pdb
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Logger.pdb
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\lAB\5 семестр\СПП\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.exe
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Mono.Cecil.dll
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Logger.dll
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\AssemblyModificationApp.pdb
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\bin\Debug\Logger.pdb
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\MPP_LAB4\AssemblyModificationApp\UnitTestProject\obj\Debug\UnitTestProject.pdb

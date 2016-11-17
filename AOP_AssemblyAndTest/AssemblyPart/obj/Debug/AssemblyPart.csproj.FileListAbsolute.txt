@@ -1,0 +1,32 @@
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\bin\Debug\AssemblyModificationApp.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\bin\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\bin\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\obj\Debug\AssemblyPart.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\obj\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyModificationApp\obj\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\bin\Debug\AssemblyModificationApp.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\obj\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\obj\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\bin\Debug\AssemblyModificationApp.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\bin\Debug\AssemblyModificationApp.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\AssemblyPart\obj\Debug\AssemblyPart.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\Mono.Cecil.dll
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.pdb
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.exe.config
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.exe
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AssemblyPart.pdb
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\Mono.Cecil.dll
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.csprojResolveAssemblyReference.cache
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.exe
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\obj\Debug\AssemblyPart.pdb
+D:\FourthLab\AOP_AssemblyAndTest\AssemblyPart\bin\Debug\AOP_LoggerAttribute.pdb

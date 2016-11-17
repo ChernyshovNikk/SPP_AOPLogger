@@ -1,0 +1,9 @@
+CLASS: {TargetAOP}. METHOD: {.ctor}. PARAMETERS: {parameter = 9}
+CLASS: {TargetAOP}. METHOD: {First}. PARAMETERS: {parameter1 = Hello}
+CLASS: {TargetAOP}. METHOD: {First}. PARAMETERS: {parameter1 = world}
+CLASS: {TargetAOP}. METHOD: {Second}. PARAMETERS: {parameter1 = 1, parameter2 = false} and RETURNS {11}
+CLASS: {TargetAOP}. METHOD: {First}. PARAMETERS: {parameter1 = Welcome}
+CLASS: {TargetAOP}. METHOD: {Second}. PARAMETERS: {parameter1 = 5, parameter2 = true} and RETURNS {15}
+CLASS: {TargetAOP}. METHOD: {Second}. PARAMETERS: {parameter1 = 22, parameter2 = true} and RETURNS {32}
+CLASS: {TargetAOP}. METHOD: {First}. PARAMETERS: {parameter1 = Today}
+CLASS: {TargetAOP}. METHOD: {Second}. PARAMETERS: {parameter1 = 13, parameter2 = false} and RETURNS {23}

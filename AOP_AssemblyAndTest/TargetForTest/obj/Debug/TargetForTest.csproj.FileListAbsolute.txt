@@ -1,0 +1,34 @@
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\bin\Debug\TestTarget.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\obj\Debug\TestTarget.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\obj\Debug\TestTarget.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\bin\Debug\TestTarget.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\bin\Debug\TestTarget.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\bin\Debug\Logger.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TestTarget\obj\Debug\TargetForTest.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\bin\Debug\TestTarget.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\obj\Debug\TestTarget.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\obj\Debug\TestTarget.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\bin\Debug\TestTarget.exe
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\bin\Debug\TestTarget.pdb
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\obj\Debug\TargetForTest.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AssemblyModificationApp\TargetForTest\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe.config
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\bin\Debug\AOP_LoggerAttribute.pdb
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.csprojResolveAssemblyReference.cache
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.exe
+E:\!!Очень важно!!\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.pdb
+D:\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe.config
+D:\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.exe
+D:\MPP_LAB4\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.pdb
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe.config
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.exe
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.pdb
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.pdb
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.csprojResolveAssemblyReference.cache
+D:\Универ. КСиС\FourthLab\AOP_AssemblyAndTest\TargetForTest\bin\Debug\TargetForTest.exe.config
+D:\Универ. КСиС\FourthLab\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.exe
+D:\Универ. КСиС\FourthLab\AOP_AssemblyAndTest\TargetForTest\obj\Debug\TargetForTest.pdb
+D:\FourthLab\AOP_AssemblyAndTest\TargetForTest\bin\Debug\AOP_LoggerAttribute.pdb

@@ -1,0 +1,19 @@
+CLASS: {TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {parameter = 17}
+CLASS: {TargetAopClass}. METHOD: {First}. PARAMETERS: {no params}CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 6, parameter2 = System.Object} and RETURNS {System.Random}
+
+CLASS: {TargetAopClass}. METHOD: {First}. PARAMETERS: {no params}CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 6, parameter2 = System.Object} and RETURNS {System.Random}
+
+CLASS: {TargetAopClass}. METHOD: {First}. PARAMETERS: {no params}CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 6, parameter2 = System.Object} and RETURNS {System.Random}
+
+CLASS: {TargetAopClass}. METHOD: {First}. PARAMETERS: {no params}CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 6, parameter2 = System.Object} and RETURNS {System.Random}
+
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 13, parameter2 = System.Object} and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = -13, parameter2 = System.Collections.Generic.List`1[System.Int32]} and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 11, parameter2 = 00:00:00} and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 16, parameter2 =  } and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {.ctor}. PARAMETERS: {parameter = 7}
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 110909, parameter2 = AopTarget.TargetAopClass} and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {Second}. PARAMETERS: {parameter1 = 1, parameter2 = 0} and RETURNS {System.Random}
+CLASS: {TargetAopClass}. METHOD: {Third}. PARAMETERS: {no params} and RETURNS {10}
+CLASS: {TargetAopClass}. METHOD: {Third}. PARAMETERS: {no params} and RETURNS {10}
+CLASS: {TargetAopClass}. METHOD: {Third}. PARAMETERS: {no params} and RETURNS {10}
